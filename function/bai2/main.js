@@ -4,6 +4,6 @@ function bai2(a,b,c,sum){
             sum = i;
         }
     }
-    return sum;
+    return 'UCLN  '+ sum;
 }
-console.log(bai2(60,20,12));
+alert(bai2(5,20,60))
